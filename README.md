@@ -46,7 +46,7 @@
 
 - 🐍 Python (aiogram framework)
 - 🗄️ PostgreSQL
-- 🌐 API integratsiyalar: Aladhan, OpenStreetMap
+- 🌐 API integratsiyalar 
 
 ### 🗄️ Ma'lumotlar bazasi
 
@@ -56,7 +56,7 @@
 
 ### 📡 API'lar
 
-- 🕌 **Namoz vaqtlari** — Aladhan API
+- 🕌 **Namoz vaqtlari** Karachi boyicha xisob kitob 
 - 📍 **Geolokatsiya** — OpenStreetMap
 - 🧭 **Qibla** — Google Qibla Finder
 
