@@ -116,3 +116,4 @@ Yordam yoki maxsus bot tayyorlatish uchun admin bilan bog‘laning: [@roobotmee]
 
 - 📌 Demo: [https://t.me/duniya_salah_bot](https://t.me/duniya_salah_bot)
 - 📢 Dasturchi kanali: [@CodeIsmoilov](https://t.me/CodeIsmoilov)
+- 📢 Dasturchi Web : [** Open in web site **](https://roobotmee.uz)
